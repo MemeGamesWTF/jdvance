@@ -1,0 +1,32 @@
+﻿{
+	"version": 1741255295,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/redlightgreenlighthowto-sheet0.png",
+		"images/redlightgreenlighthowto-sheet1.png",
+		"images/redlightgreenlighthowto-sheet2.png",
+		"images/play-sheet0.png",
+		"images/card-sheet0.png",
+		"images/informationbutton-sheet0.png",
+		"images/jdversebg-sheet0.png",
+		"images/sprite11sheet-sheet0.png",
+		"images/tiledbackground.png",
+		"media/tap.m4a",
+		"media/tap.ogg",
+		"media/match.m4a",
+		"media/match.ogg",
+		"media/tap (1).m4a",
+		"media/tap (1).ogg",
+		"media/jd vance - bgm.m4a",
+		"media/jd vance - bgm.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
