@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1741259938,
+	"version": 1741260221,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,8 @@
 		"media/match.ogg",
 		"media/tap (1).m4a",
 		"media/tap (1).ogg",
+		"media/boo.m4a",
+		"media/boo.ogg",
 		"media/jd vance - bgm.m4a",
 		"media/jd vance - bgm.ogg",
 		"icon-16.png",
