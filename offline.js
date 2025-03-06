@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1741256055,
+	"version": 1741259604,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,13 +7,13 @@
 		"offlineClient.js",
 		"images/redlightgreenlighthowto-sheet0.png",
 		"images/redlightgreenlighthowto-sheet1.png",
-		"images/redlightgreenlighthowto-sheet2.png",
 		"images/play-sheet0.png",
 		"images/card-sheet0.png",
 		"images/informationbutton-sheet0.png",
 		"images/jdversebg-sheet0.png",
 		"images/sprite11sheet-sheet0.png",
 		"images/tiledbackground.png",
+		"images/sprite3sheet-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/match.m4a",
